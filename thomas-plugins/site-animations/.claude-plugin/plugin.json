@@ -1,0 +1,10 @@
+{
+  "name": "site-animations",
+  "version": "1.0.0",
+  "description": "Workflow to add GSAP, Lenis smooth scroll and React Bits components to a website project",
+  "author": {
+    "name": "thomaslachaud1704-art"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}

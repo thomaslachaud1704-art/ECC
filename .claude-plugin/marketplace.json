@@ -42,6 +42,25 @@
         "best-practices"
       ],
       "strict": false
+    },
+    {
+      "name": "gsap-skills",
+      "source": {
+        "source": "github",
+        "repo": "greensock/gsap-skills"
+      },
+      "description": "Official GSAP skills by GreenSock (tweens, timelines, ScrollTrigger, plugins, React, performance). Skills only, no hooks.",
+      "homepage": "https://gsap.com",
+      "license": "MIT",
+      "category": "development"
+    },
+    {
+      "name": "site-animations",
+      "source": "./thomas-plugins/site-animations",
+      "description": "Workflow to add GSAP, Lenis smooth scroll and React Bits components to a website project",
+      "version": "1.0.0",
+      "license": "MIT",
+      "category": "development"
     }
   ]
 }
